@@ -1,6 +1,6 @@
 # Nationwide trends in COVID-19 cases and SARS-CoV-2 RNA wastewater concentrations in the United States
 
-This repo contains the raw data underlying the results reported in Duvallet et al 2022.
+This repo contains the raw data underlying the results reported in Duvallet et al 2022, doi: [10.1021/acsestwater.1c00434](https://doi.org/10.1021/acsestwater.1c00434).
 
 For any questions, please open an issue in this repo (preferred) or email claire@biobot.io and hello@biobot.io.
 
